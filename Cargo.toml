@@ -10,7 +10,7 @@ readme = "README.md"
 keywords = ["env", "zero-copy", "ffi", "performance"]
 categories = ["config", "no-std"]
 
-
+[package.metadata.docs.rs]
 [features]
 default = ["std"]
 std = []
