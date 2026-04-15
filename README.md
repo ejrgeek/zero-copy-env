@@ -1,4 +1,8 @@
-
+[![CI](https://github.com/ejrgeek/zero-copy-env/actions/workflows/ci.yml/badge.svg)](https://github.com/ejrgeek/zero-copy-env/actions/workflows/ci.yml)
+[![Crates.io](https://img.shields.io/crates/v/zero-copy-env.svg)](https://crates.io/crates/zero-copy-env)
+[![Docs.rs](https://docs.rs/zero-copy-env/badge.svg)](https://docs.rs/zero-copy-env)
+[![License](https://img.shields.io/crates/l/zero-copy-env.svg)](LICENSE)
+[![Downloads](https://img.shields.io/crates/d/zero-copy-env.svg)](https://crates.io/crates/zero-copy-env)
 
 # Zero-Copy-Env
 
