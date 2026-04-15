@@ -1,6 +1,6 @@
 [package]
 name = "zero_copy_env"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 license = "MIT"
 description = "Zero-copy environment variable access via OS memory (FFI/libc)"
