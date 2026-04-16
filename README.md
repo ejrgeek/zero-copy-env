@@ -1,3 +1,18 @@
+<p align="center">
+  <img
+    src="https://erlondnjr.com.br/assets/photo/erlon2.png"
+    alt="ejrgeek Logo"
+    width="86"
+  />
+</p>
+
+
+<span align="center">
+
+[**Portuguese Homepage**](README_br.md) | [**Crates.io**](https://crates.io/crates/zero_copy_env) | [**Docs.rs**](https://docs.rs/zero_copy_env/latest/zero_copy_env/)
+
+</span>
+
 [![CI](https://github.com/ejrgeek/zero-copy-env/actions/workflows/ci.yml/badge.svg)](https://github.com/ejrgeek/zero-copy-env/actions/workflows/ci.yml)
 [![Crates.io](https://img.shields.io/crates/v/zero_copy_env.svg)](https://crates.io/crates/zero-copy-env)
 [![Docs.rs](https://docs.rs/zero_copy_env/badge.svg)](https://docs.rs/zero_copy_env)
@@ -115,6 +130,5 @@ Planned improvements:
 - Optional Vec-based backend for cache locality optimization
 - Optional no-std support refinement
 - Extended benchmark suite across environments
-- Optional hot-reload mode (feature-gated)
 
 ## License MIT
