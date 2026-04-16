@@ -3,6 +3,7 @@ name = "zero_copy_env"
 version = "0.1.1"
 edition = "2024"
 license = "MIT"
+authors = ["Erlon Jr. <ejrgeek@gmail.com>"]
 description = "Zero-copy environment variable access via OS memory (FFI/libc)"
 homepage = "https://github.com/ejrgeek/zero_copy_env"
 repository = "https://github.com/ejrgeek/zero_copy_env"
